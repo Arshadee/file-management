@@ -1,0 +1,8 @@
+io/filemanagement/services/PostServiceTest.class
+io/filemanagement/FileManagementApplicationTests.class
+io/filemanagement/controllers/CommentControllerTest.class
+io/filemanagement/services/CommentServiceTest.class
+io/filemanagement/FileManEntityDtoMapTest.class
+io/filemanagement/services/DocumentServiceTest.class
+io/filemanagement/controllers/DocumentControllerTest.class
+io/filemanagement/controllers/PostControllerTest.class
